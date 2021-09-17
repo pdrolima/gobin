@@ -7,6 +7,10 @@ import (
 	"fmt"
 )
 
+type EquipItem struct {
+	
+}
+
 type Weapon struct {
 	RequireLevel      int16
 	RequireClass      int16
